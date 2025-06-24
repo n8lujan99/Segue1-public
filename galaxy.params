@@ -1,0 +1,8 @@
+Segue1
+distanceMpc  0.023
+angleRmax     2000.
+vmin         -20.
+vmax          20.
+slope_0       -1.0
+MtoL          6.
+islitsize     0  (0=nothing; 1=0.1"x0.2"; 2=0.1"x0.1" (HST))

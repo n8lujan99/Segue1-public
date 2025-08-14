@@ -1,4 +1,4 @@
-
+Completed
       parameter (narrm=400000,npm=50,nl=narrm)
       real xd(narrm,100),x(narrm),y(narrm),sig(narrm),xo(narrm)
       real a(npm),covar(npm,npm),alpha(npm,npm),xo2(narrm),w(narrm)

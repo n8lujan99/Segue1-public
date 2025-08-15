@@ -1,4 +1,4 @@
-
+Skipped
       call getseed(idum)
       print *,idum
       

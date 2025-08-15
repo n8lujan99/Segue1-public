@@ -1,4 +1,4 @@
-
+Skipped
       character cfile*6,file1*60,file2*60
 
       read *,ra1,ra2,dec1,dec2

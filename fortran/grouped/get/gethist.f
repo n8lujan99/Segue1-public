@@ -1,4 +1,4 @@
-
+Marked
       parameter(nstot=10,nftot=10,nmax=100,ncmax=1000000)
       real fin(nstot,nftot,nmax),hin(nstot,nftot,nmax),sn(nstot)
       real hin1(nstot,nftot,nmax),hin2(nstot,nftot,nmax)

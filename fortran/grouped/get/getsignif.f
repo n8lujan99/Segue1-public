@@ -1,4 +1,4 @@
-
+Marked
       parameter(nmax=10000,nlmax=1000,nca=17)
       real wave(nmax),flux(nmax),x(nmax),y(nmax),alpha(nca,nca)
       real a(nca),yin(nmax),covar(nca,nca)

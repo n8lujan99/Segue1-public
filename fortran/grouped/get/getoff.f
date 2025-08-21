@@ -1,4 +1,4 @@
-
+marked
       parameter(nmax=1000)
       real xa1(nmax),xa2(nmax),xa3(nmax),xa4(nmax)
       character file1*50,file2*50,file3*50,c1*4

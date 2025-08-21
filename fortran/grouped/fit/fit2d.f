@@ -1,4 +1,4 @@
-
+Completed
       parameter(nmax=3000)
       real xr(nmax),xd(nmax),xf(nmax),xw(nmax),az(nmax)
       real xr0(nmax),xd0(nmax),wadc(10),adc(10),fadcw(10)
